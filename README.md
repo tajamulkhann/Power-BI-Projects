@@ -1,4 +1,4 @@
-# 📊 Power BI Projects
+## 📊 Power BI Projects
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e0e0ca94-6072-474e-b8fa-d22ed0446257" />
 
