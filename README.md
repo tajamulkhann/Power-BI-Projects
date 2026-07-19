@@ -4,8 +4,7 @@
 Purchase the complete Power BI project bundle with datasets for just **₹199**.  
 👉 https://topmate.io/tajamulkhan/1672266
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e0e0ca94-6072-474e-b8fa-d22ed0446257" />
-
+<img width="1280" height="720" alt="Default (8)" src="https://github.com/user-attachments/assets/b02ce201-9c3d-44ea-ae94-f8adb2d7408b" />
 
 ### Description
 Production-ready **Power BI projects** designed to help you master real-world analytics dashboards, visualization, and storytelling with data.  
