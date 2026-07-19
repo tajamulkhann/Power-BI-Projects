@@ -1,4 +1,4 @@
-## 📊 Power BI Projects
+# Power BI Projects
 
 ### 💰 Get All Projects
 Purchase the complete Power BI project bundle with datasets for just **₹199**.  
